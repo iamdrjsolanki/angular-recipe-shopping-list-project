@@ -1,6 +1,7 @@
 # MyProjectApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+This project is from the Udemy's McMillan Angular Course.
 
 ## Visit the app
 This project can be viewed at https://ng-course-recipe-book-75677.web.app/
